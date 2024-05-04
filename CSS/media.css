@@ -1,0 +1,167 @@
+
+@media (max-width: 550px){
+    .titleprojects{
+        margin-top: 2rem;
+        font-size: 2rem;
+        overflow-x: visible;
+    }
+
+    .gif{
+        max-width: 90vw;
+        height: auto;
+    }
+
+    .lista_item{
+        box-shadow: none;
+        border: solid 2px rgb(19, 223, 19);
+    }
+
+    .second-frases{
+        flex-direction: column;
+    }
+    .my-info{
+        font-size: 2.5rem;
+    }
+
+    .main-frases{
+        margin: 0;
+    }
+
+    .doit{
+        text-align: center;
+    }
+
+}
+
+
+@media (max-width: 1199px){
+
+    .my-name{
+        font-size: 2rem;
+    }
+
+    .hi{
+        font-size: 1rem;
+        color: var(--cor-descr);
+    }
+    
+    .intro{
+        margin: 0;
+    }
+    
+    .card1{
+        margin-top: 2rem;
+        display: grid;
+        grid-column: auto;
+        align-items: center;
+        justify-content: center;
+    
+    }
+
+    .fotolinks{
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .lucas{
+        margin-top: 2rem;
+        margin-bottom: 5rem;
+        max-width: 40%;
+        height: auto;
+        padding: 0;  
+        margin-left: 0;
+    }
+    
+    .lista-stack{
+        display: block;
+    }
+    
+    
+    .lista_item{
+        margin: 0.1rem;
+    }
+    
+    .icone-stack{
+        width: 60px;
+    }
+    
+    .invisivel{
+        display: inline;
+        opacity: 0;
+        background-color: var(rgb(17, 17, 17));
+    }
+
+    
+    
+    .talk{
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .letstalk{
+        margin: 0;
+        margin-bottom: 2rem;
+        padding: 0.5rem;
+        font-size: 3rem;
+        text-align: center;
+    }
+    
+    .letstalk-p{
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .footer1{
+        margin-top: 2rem
+    }
+
+    
+    
+};
+
+
+@media (max-width: 1200){
+
+    .my-name{
+        font-size: 2rem;
+    }
+
+    .letstalk-p{
+        text-align: center;
+        font-size: 1rem;
+        font-family: var(--code-font);
+        color: var(--cor-descr);
+        padding: 2rem;
+    }
+
+    .letstalk{
+        font-size: 1.5rem;
+    }
+
+    .lista-stack{
+        display: block;
+    }
+    
+    
+    .lista_item{
+        margin: 0.1rem;
+    }
+    
+    .icone-stack{
+        width: 60px;
+    }
+
+};
+
+
+
+
+
+
+
+
+
+
+
