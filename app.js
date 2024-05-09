@@ -1,6 +1,6 @@
 var i = 0;
-var txt = "//Full Stack Developer";
-var speed = 70; 
+var txt = "//Web Developer";
+var speed = 90; 
 
 function typeWriter() {
 
